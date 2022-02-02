@@ -1,0 +1,1 @@
+Allows the user to create a custom connect 4 game, which is scalable with different dimensions.
